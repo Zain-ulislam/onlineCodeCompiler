@@ -21,3 +21,12 @@ iframe {
   height: 280px;
   margin-top: 10px;
 }
+textarea:focus {
+  width: 30%;
+  height: 280px;
+  padding: 10px;
+  margin: 10px;
+  resize: none;
+  color: white;
+  background-color:#85929e;
+}
